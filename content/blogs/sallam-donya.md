@@ -6,7 +6,7 @@ date: 2023-08-26T11:16:42.877Z
 banner: true
 comments: true
 category: متفرقه
-comment: true
+comment: false
 ---
 ## تایتل اول 
 
