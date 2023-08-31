@@ -1,7 +1,7 @@
 ---
 title: سلام دنیا :)
 thumbnail: /content/totoro_render.webp
-description: سلام دنیا :) ، این اولین نوشته است
+description: "به بگ چه خوش آمدید "
 date: 2023-08-26T11:16:42.877Z
 banner: true
 comments: true
